@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1649119998 source:c:\users\usuario\desktop\usp\introdução à programação\peso_ideal_genero\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
