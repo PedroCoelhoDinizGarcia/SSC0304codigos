@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1649104828 source:c:\users\usuario\desktop\usp\introdução à programação\patos_e_coelhos\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1649166956 source:e:\c (codeblocks)\patos_e_coelhos\main.c
+	<stdio.h>
+	<stdlib.h>
+
